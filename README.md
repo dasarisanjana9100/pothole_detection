@@ -23,11 +23,6 @@ image dataset.
 4. Video processing
 5. Detection result visualization
    
-streamlit
-ultralytics
-opencv-python-headless
-pillow
-numpy
 ## Output
 The trained model detects potholes and
 road damage in images and videos.
